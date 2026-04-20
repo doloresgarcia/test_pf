@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+src/dependencies/
